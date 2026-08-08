@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: eyelash_corne}
 layers:
   QWERTY:
-  - {t: '$$mdi:keyboard-tab$$', h: 'Meh+$$mdi:apple-keyboard-command$$'}
+  - $$mdi:keyboard-tab$$
   - Q
   - W
   - E
@@ -47,7 +47,7 @@ layers:
   - SYMBOL
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-option$$'}
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - {t: '$$mdi:backspace-reverse-outline$$', h: '$$mdi:backspace$$'}
   - NUMBER
   SYMBOL:
   - {t: '$$mdi:transfer$$', type: trans}
