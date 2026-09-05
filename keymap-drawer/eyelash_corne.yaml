@@ -103,8 +103,8 @@ layers:
   - F1
   - F2
   - F3
-  - {t: '4', s: $}
-  - {t: '5', s: '%'}
+  - F4
+  - F5
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - F6
   - F7
